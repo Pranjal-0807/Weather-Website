@@ -1,0 +1,18 @@
+.fa-cloud{
+    font-size: 70px;
+    color: skyblue;
+}
+.fa-temperature-low{
+    font-size: 70px;
+    
+}
+.fa-cloud-sun{
+    font-size: 70px;
+    color: rgb(220, 176, 31);
+}
+h2{
+    font-size: 60px;
+    font-weight: 900;
+    -webkit-text-stroke: 6px #000;
+    color: transparent;
+}
